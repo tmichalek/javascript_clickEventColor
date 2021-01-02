@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    height: 100vh;
+   }
+   div{
+       transform:translate(-50%, -50%);
+       width:15vh;
+       height: 10vh;
+       position: absolute;
+       left:50%;
+       top:50%;
+       font-size: 15px;
+       color: white;
+   }
